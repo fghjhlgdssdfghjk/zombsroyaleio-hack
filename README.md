@@ -9,7 +9,7 @@ Hack for the game zombsroyale.io. Every functions working as of 1/15/2019. Updat
 *Antiban (server rejection system blind, spectate blind)<BR>
 
 ## Instructions: 
-*Download the file. <BR>
+*Download the [repository] as a ZIP (https://github.com/zombsroyaleio-hack/archive/master.zip). . <BR>
 *Use Tampermonkey and install the script. It will load automatically when you open zombsroyale.io <BR>
 *Do not post this hack on social medias. <BR>
 *Share with friends only, on private chats & means of communications. (Why? To keep this a secret, duh)<BR>
