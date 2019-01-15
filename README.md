@@ -4,23 +4,23 @@ Hack for the game zombsroyale.io. Every functions working as of 1/15/2019. Updat
 ![alt text](https://veedif.com/files/thumbs/zombsroyale-io.jpg)
 
 ## Features: 
-*Aimbot (when you click, it aims at nearest player)
-*Healbot (never takes damage)
-*Antiban (server rejection system blind, spectate blind)
+*Aimbot (when you click, it aims at nearest player)<BR>
+*Healbot (never takes damage)<BR>
+*Antiban (server rejection system blind, spectate blind)<BR>
 
 ## Instructions: 
-*Download the file. 
-*Use Tampermonkey and install the script. It will load automatically when you open zombsroyale.io 
-*Do not post this hack on social medias. 
-*Share with friends only, on private chats & means of communications. (Why? To keep this a secret, duh)
+*Download the file. <BR>
+*Use Tampermonkey and install the script. It will load automatically when you open zombsroyale.io <BR>
+*Do not post this hack on social medias. <BR>
+*Share with friends only, on private chats & means of communications. (Why? To keep this a secret, duh)<BR>
 
 ## WTF!? The hack doesn't work???
-*Don't panic. 
-*Create an issue, and I will update. Check back regularly, and download again when the code is updated.
+*Don't panic. <BR>
+*Create an issue, and I will update. Check back regularly, and download again when the code is updated.<BR>
 
 ## Requirements: 
-*Tampermonkey
-*A computer
+*Tampermonkey<BR>
+*A computer<BR>
 
 ## Author: 
 *Fahrenheit 120.
