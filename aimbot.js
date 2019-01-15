@@ -1,9 +1,7 @@
 editAimToBe=equal(nearestActivate, ActivateFire)
 setObject{ifHang=2, setMouseAim=PlayerInertia
 
-if (activateSeePlayer),mouseClicked, adjustAimTo [
-
-PlayerInertia, PlayerX, PlayerY]
+if (activateSeePlayer),mouseClicked, adjustAimTo [PlayerInertia, PlayerX, PlayerY]
 
 recogFile1=overrideWebpackMap
 AimAlwaysAccurMode=true.html activated
