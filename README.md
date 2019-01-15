@@ -30,6 +30,9 @@ Hack for the game zombsroyale.io. Every functions working as of 1/15/2019. Updat
 ## Requirements: 
 -Tampermonkey (if you use installation method 2)<BR>
 -A computer<BR>
+  
+## I want to contribute! This is cool!
+-Go to the code menu (list of files) above and find CONTRIBUTING.md and PULL_REQUEST_TEMPLATE.md. Take a look before you start coding.
 
 ## Author: 
 Fahrenheit 120.
