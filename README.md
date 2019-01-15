@@ -1,7 +1,7 @@
 # Zombsroyale.io-Hack
 Hack for the game zombsroyale.io. Every functions working as of 1/15/2019. Update along w/ the game
 
-https://veedif.com/files/thumbs/zombsroyale-io.jpg
+![alt text](https://veedif.com/files/thumbs/zombsroyale-io.jpg)
 
 Features: 
 Aimbot (when you click, it aims at nearest player)
