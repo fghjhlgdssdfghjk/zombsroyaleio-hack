@@ -24,6 +24,15 @@ Do not post this hack on social medias. <BR>
 Share with friends only, on private chats & means of communications. (Why? To keep this a secret, duh)<BR>
 
 ## WTF!? The hack doesn't work???
+### Fix 1.
+Make sure you followed the instructions.<BR>
+Do a full reinstall, and make sure you are using the latest version of Chrome.<BR>
+
+### Fix 2.
+Download the Java client.<BR>
+In the Java Client -> Load -> Destination: Chrome. -> Try again.
+  
+### Still not working...
 Don't panic. <BR>
 Create an issue. To do this, see Issue Templates in the code menu (the list of files above this section), and create the issue. I will try to update regularly. Check back, and download again when the code is updated.<BR>
 
