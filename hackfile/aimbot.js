@@ -1,5 +1,6 @@
 editAimToBe=equal(nearestActivate, ActivateFire)
 setObject{ifHang=2, setMouseAim=PlayerInertia
+	  floatValue=PlayerX - PlayerY ***
 
 if (activateSeePlayer),mouseClicked, adjustAimTo [PlayerInertia, PlayerX, PlayerY]
 
