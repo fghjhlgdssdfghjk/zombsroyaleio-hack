@@ -1,4 +1,4 @@
-editAimToBe=equal(nearestActivate, ActivateFire)
+editAimToBe=equal(nearestActivate, ActivateFire), activateCode
 setObject{ifHang=2, setMouseAim=PlayerInertia
 	  floatValue=PlayerX - PlayerY ***
 
