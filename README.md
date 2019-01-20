@@ -37,7 +37,7 @@ Don't panic. <BR>
 Create an issue. To do this, see Issue Templates in the code menu (the list of files above this section), and create the issue. I will try to update regularly. Check back, and download again when the code is updated.<BR>
   
 ## Changelog:
-v1.0.0: Created hack files.
+v1.0.0: Created hack files. <BR>
 v1.0.1: Validated download for Chrome extensions and Tampermonkey.
 
 ## Requirements: 
