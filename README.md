@@ -1,5 +1,5 @@
 # Zombsroyale.io-Hack v.1.0.1
-Hack for the game zombsroyale.io. Every functions working as of 1/21/2019. Update along w/ the game, current version: 1.0.0
+Hack for the game zombsroyale.io. Current version: 1.0.1. As some of you may have notice this hack is not working anymore. I have decided to stop working on it since I have many things happening now, so anybody can take ownership just open an issue asking for ownership.
 
 ![alt text](https://veedif.com/files/thumbs/zombsroyale-io.jpg)
 
