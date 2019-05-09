@@ -9,6 +9,7 @@
 		"declarativeContent",
 		"webRequest",
 		"webRequestBlocking"
+		
 	],
 	"background": {
 		"scripts": [
@@ -21,7 +22,6 @@
   			"*://*.zombsroyale.io/*",
   			"*://*.2dbattleroyale.com/",
   			"*://*.2dbattleroyale.org/",
-  		]
 	},
 	"browser_action": {
 		"default_title": "Survivio+",
